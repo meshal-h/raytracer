@@ -3,9 +3,9 @@
 A simple ray tracer following the amazing tutorial by Peter Shirley et al. ["Ray Tracing in One Weekend"](https://raytracing.github.io/books/RayTracingInOneWeekend.html). Implementation is done in Rust.
 
 ### Examples
-![penultimate_scene](media/penultimate_scene.png){width=600px}
+<img src="media/penultimate_scene.png" width=80%>
 
-![final_scene](media/final_scene.png){width=600px}
+<img src="media/final_scene.png" width=80%>
 
 ### Runtime Performance
 Rendering the final scene (1200x675 image with 500 samples per pixel and 50 max depth) on an AMD Ryzen 9 5900HX CPU and 16GB of RAM:
